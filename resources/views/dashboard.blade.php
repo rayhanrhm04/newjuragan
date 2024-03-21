@@ -21,7 +21,7 @@
   <link rel="apple-touch-icon" sizes="76x76" href="{{ asset('material') }}/assets/img/apple-icon.png">
   <link rel="icon" type="image/png" href="{{ asset('material') }}/assets/img/favicon.png">
   <title>
-    Material Dashboard 2 by Creative Tim
+    Juraganpanel
   </title>
   <!--     Fonts and icons     -->
   <link rel="stylesheet" type="text/css" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,900|Roboto+Slab:400,700" />
@@ -64,7 +64,7 @@
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">table_view</i>
             </div>
-            <span class="nav-link-text ms-1">Tables</span>
+            <span class="nav-link-text ms-1">Pemesanan</span>
           </a>
         </li>
         <li class="nav-item">
@@ -72,7 +72,7 @@
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">receipt_long</i>
             </div>
-            <span class="nav-link-text ms-1">Billing</span>
+            <span class="nav-link-text ms-1">Layanan</span>
           </a>
         </li>
         <li class="nav-item">
@@ -80,7 +80,7 @@
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">view_in_ar</i>
             </div>
-            <span class="nav-link-text ms-1">Virtual Reality</span>
+            <span class="nav-link-text ms-1">Deposit</span>
           </a>
         </li>
         <li class="nav-item">
@@ -88,7 +88,7 @@
             <div class="text-white text-center me-2 d-flex align-items-center justify-content-center">
               <i class="material-icons opacity-10">format_textdirection_r_to_l</i>
             </div>
-            <span class="nav-link-text ms-1">RTL</span>
+            <span class="nav-link-text ms-1">Voucher</span>
           </a>
         </li>
         <li class="nav-item">
